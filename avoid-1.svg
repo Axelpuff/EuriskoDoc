@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="51.396439mm"
+   height="30.686766mm"
+   viewBox="0 0 51.396439 30.686766"
+   version="1.1"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <g
+     id="layer1"
+     transform="translate(-5.3142624,-46.629551)">
+    <rect
+       style="fill:none;stroke:#0000ff;stroke-width:0.352778;stroke-dasharray:none"
+       id="rect17"
+       width="51.043663"
+       height="30.333984"
+       x="5.4906516"
+       y="46.805939" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none;stroke-width:0.264582;stroke-dasharray:none"
+       x="6.8501554"
+       y="51.046722"
+       id="text18"><tspan
+         id="tspan18"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;stroke:none;stroke-width:0.264582;stroke-dasharray:none"
+         x="6.8501554"
+         y="51.046722">Avoid</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.61301px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none;stroke-width:0.217751;stroke-dasharray:none"
+       x="6.5817151"
+       y="56.258099"
+       id="text18-6"><tspan
+         id="tspan18-1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;stroke:none;stroke-width:0.217751;stroke-dasharray:none"
+         x="6.5817151"
+         y="56.258099">IfAboutToWorkOnTask:</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#0000ff;stroke:none;stroke-width:0.264582;stroke-dasharray:none"
+       x="6.6130381"
+       y="60.364365"
+       id="text18-6-5"><tspan
+         id="tspan18-1-8"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial;fill:#0000ff;stroke:none;stroke-width:0.264582;stroke-dasharray:none"
+         x="6.6130381"
+         y="60.364365">HAvoid, HAvoidIfWorking</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.61301px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none;stroke-width:0.217751;stroke-dasharray:none"
+       x="6.6857839"
+       y="65.208008"
+       id="text19"><tspan
+         id="tspan19"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;stroke:none;stroke-width:0.217751;stroke-dasharray:none"
+         x="6.6857839"
+         y="65.208008">IfFinishedWorkingOnTask:</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#0000ff;stroke:none;stroke-width:0.264582;stroke-dasharray:none"
+       x="6.7171068"
+       y="69.314278"
+       id="text20"><tspan
+         id="tspan20"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial;fill:#0000ff;stroke:none;stroke-width:0.264582;stroke-dasharray:none"
+         x="6.7171068"
+         y="69.314278">HAvoid2, HAvoid2And, HAvoid3,</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial;fill:#0000ff;stroke:none;stroke-width:0.264582;stroke-dasharray:none"
+         x="6.7171068"
+         y="73.319778"
+         id="tspan21">HAvoid3First</tspan></text>
+  </g>
+</svg>

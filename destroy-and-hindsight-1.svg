@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="35.171715mm"
+   height="40.409359mm"
+   viewBox="0 0 35.171715 40.409359"
+   version="1.1"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <marker
+       style="overflow:visible"
+       id="Triangle-9"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135-39" />
+    </marker>
+  </defs>
+  <g
+     id="layer1"
+     transform="translate(-60.701656,-46.586529)">
+    <path
+       style="fill:none;stroke:#0000ff;stroke-width:0.264999;stroke-dasharray:none;marker-end:url(#Triangle-9)"
+       d="m 77.988342,64.235933 v 4.047323"
+       id="path11-4" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.61301px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none;stroke-width:0.217751;stroke-dasharray:none"
+       x="62.317562"
+       y="55.82217"
+       id="text18-6-2"><tspan
+         id="tspan18-1-6"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;stroke:none;stroke-width:0.217751;stroke-dasharray:none"
+         x="62.317562"
+         y="55.82217">IfFinishedWorkingOnTask:</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#0000ff;stroke:none;stroke-width:0.264582;stroke-dasharray:none"
+       x="62.348888"
+       y="59.928436"
+       id="text18-6-5-9"><tspan
+         id="tspan18-1-8-1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial;fill:#0000ff;stroke:none;stroke-width:0.264582;stroke-dasharray:none"
+         x="62.348888"
+         y="59.928436">H2</tspan></text>
+    <rect
+       style="fill:none;stroke:#0000ff;stroke-width:0.352778;stroke-dasharray:none"
+       id="rect21"
+       width="34.686855"
+       height="16.05855"
+       x="61.010128"
+       y="46.762913" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none;stroke-width:0.264582;stroke-dasharray:none"
+       x="62.412659"
+       y="51.046722"
+       id="text22"><tspan
+         id="tspan22"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;stroke:none;stroke-width:0.264582;stroke-dasharray:none"
+         x="62.412659"
+         y="51.046722">Destroy</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.61301px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none;stroke-width:0.217751;stroke-dasharray:none"
+       x="62.185478"
+       y="79.820206"
+       id="text18-6-2-6"><tspan
+         id="tspan18-1-6-0"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;stroke:none;stroke-width:0.217751;stroke-dasharray:none"
+         x="62.185478"
+         y="79.820206">WorkOnUnit:</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#0000ff;stroke:none;stroke-width:0.264582;stroke-dasharray:none"
+       x="62.216805"
+       y="83.926476"
+       id="text18-6-5-9-9"><tspan
+         id="tspan18-1-8-1-2"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial;fill:#0000ff;stroke:none;stroke-width:0.264582;stroke-dasharray:none"
+         x="62.216805"
+         y="83.926476">H12, H13, H14</tspan></text>
+    <rect
+       style="fill:none;stroke:#0000ff;stroke-width:0.352778;stroke-dasharray:none"
+       id="rect21-9"
+       width="34.686855"
+       height="16.05855"
+       x="60.878044"
+       y="70.760948" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none;stroke-width:0.264582;stroke-dasharray:none"
+       x="62.280575"
+       y="75.044762"
+       id="text22-6"><tspan
+         id="tspan22-0"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;stroke:none;stroke-width:0.264582;stroke-dasharray:none"
+         x="62.280575"
+         y="75.044762">Hindsight</tspan></text>
+  </g>
+</svg>
